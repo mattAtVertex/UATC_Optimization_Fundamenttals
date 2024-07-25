@@ -1,0 +1,5 @@
+# Optimization Tools
+
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20717/preview?verifier=oQ5XdiHOIfvHqscJLZWxSPHxohXwPEJZCo87YQYj" alt="Artboard 47.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20717" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20718/preview?verifier=cyLOxjDPZS65QU1I4SySGSpIjEWs9w5sMfoGC7gT" alt="Artboard 48.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20718" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20719/preview?verifier=uSNNwXA9PD2PW4HKiESIh3XSdfv2OSgHEV3MaVaq" alt="Artboard 49.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20719" data-api-returntype="File"></p>
