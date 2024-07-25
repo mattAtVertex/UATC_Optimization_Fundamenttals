@@ -1,0 +1,5 @@
+# Optimization Philosophy 
+
+<p><span>&nbsp;</span><img src="https://vertexschool.instructure.com/courses/315/files/20667/preview?verifier=gWCI7bwFDBF6hkw8l7oxbwiRgWlWlJle1KpdIwzl" alt="Artboard 4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20667" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20668/preview?verifier=rVcJGFPt6iWTUg07YzUZY1WNNXL2JavUHv36VzKP" alt="Artboard 5.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20668" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20669/preview?verifier=kag1MYHLfvddlWFddMbyXe7YdhgE7yXzDprUreIq" alt="Artboard 6.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20669" data-api-returntype="File"></p>
