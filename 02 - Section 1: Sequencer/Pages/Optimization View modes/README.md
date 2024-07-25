@@ -1,0 +1,5 @@
+# Optimization View modes
+
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20714/preview?verifier=rKNEo4OhKtLvEfPcHETtsv32jvnsmyXFlIHlfFA0" alt="Artboard 43.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20714" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20715/preview?verifier=FmwpNjF1kHRgzk0QYGXMUyZZcb1egfYYlNZA5azA" alt="Artboard 44.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20715" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20716/preview?verifier=JTrJBOTKkmN8GR79fbRORdpdrTVQuPLdbme7zJlG" alt="Artboard 45.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20716" data-api-returntype="File"></p>
