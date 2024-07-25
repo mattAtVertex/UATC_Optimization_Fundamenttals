@@ -1,0 +1,5 @@
+# Texture MIP Mapping
+
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20692/preview?verifier=nI6MFB2ooILoBYqz41l4lfEVcRcovfpz4z3oJyqJ" alt="Artboard 18.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20692" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20693/preview?verifier=W5S9jj24UoCqmMFDA0JHjqwcqz3PisNN2tVbkO9N" alt="Artboard 19.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20693" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20694/preview?verifier=D55G522QtsuJMEuQbC2Rj8NVzmUxhiMQKlVfiWwm" alt="Artboard 20.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20694" data-api-returntype="File"></p>
