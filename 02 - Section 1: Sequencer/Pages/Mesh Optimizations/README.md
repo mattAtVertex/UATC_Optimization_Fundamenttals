@@ -1,0 +1,8 @@
+# Mesh Optimizations
+
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20704/preview?verifier=Fp4qu0CIxrt5KwWgjz7MthOoR16rfMUEBXJYyKkE" alt="Artboard 31.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20704" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20705/preview?verifier=2Yz9337GVtVkZ8iisIIk0XdXGP0qaf5zcTQbjogX" alt="Artboard 32.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20705" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20706/preview?verifier=jtCSlfAgPlKOudwxJaegrPSWNDdiCfwAlzIfOmnV" alt="Artboard 33.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20706" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20707/preview?verifier=cfyCVI0lBuNcPNWyKfZj4LfyiZJcSJ94uAhd1yVP" alt="Artboard 34.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20707" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20708/preview?verifier=wnPLMAup2YgKTeYXlFGZ2XHn03EurhSJ1DFy87Hk" alt="Artboard 35.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20708" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20709/preview?verifier=AlcuqDfO8IUQaLd6vnq22VnC8MiWm53J7AKLGi18" alt="Artboard 36.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20709" data-api-returntype="File"></p>
