@@ -1,0 +1,6 @@
+# Project Setup
+
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20670/preview?verifier=yhHM2jAJ1DWPgg4TDA9zOpaFxX4PaFYrvPMU6hWl" alt="Artboard 8.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20670" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20671/preview?verifier=Jqv31qc53bJiIBtgF3MuqQjzyF7dwYwHzFusM2kP" alt="Artboard 9.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20671" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20672/preview?verifier=H2HEucIQPaSrX7Pku54xbFzdNYkvAaZVrTNOCSQb" alt="Artboard 10.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20672" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/315/files/20673/preview?verifier=EbfsHkGRcVdp5ckxgrt6nucctKrqjbhR1knEnxwc" alt="Artboard 11.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/315/files/20673" data-api-returntype="File"></p>
